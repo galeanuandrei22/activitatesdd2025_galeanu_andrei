@@ -1,0 +1,18 @@
+# Visual Studio cache files
+.vs/
+
+# Fisiere temporare Visual Studio
+*.user
+*.suo
+
+# Fisiere build
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# Alte fisiere
+*.VC.db
+*.VC.opendb
